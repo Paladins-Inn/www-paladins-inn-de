@@ -44,7 +44,10 @@ jobs:
     needs: [release]
     
     steps:
-    - uses: actions/checkout@v5
+    - name: Check Out
+      uses: actions/checkout@v5
+      with:
+        fetch-depth: 0
     - name: Get version tag
       id: get_tag
       run: echo "tag=$(git describe --tags --abbrev=0)" >> $GITHUB_OUTPUT
