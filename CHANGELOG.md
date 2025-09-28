@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/Paladins-Inn/www-paladins-inn-de/compare/v1.0.5...v1.0.6) (2025-09-28)
+
+
+### Bug Fixes
+
+* put repo name to lowercase. ([0a8cc37](https://github.com/Paladins-Inn/www-paladins-inn-de/commit/0a8cc37d36e02e79726cbdf5115998ad5b29cc72))
+
 ## [1.0.5](https://github.com/Paladins-Inn/www-paladins-inn-de/compare/v1.0.4...v1.0.5) (2025-09-28)
 
 
