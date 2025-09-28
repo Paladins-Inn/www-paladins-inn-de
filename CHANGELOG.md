@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/Paladins-Inn/www-paladins-inn-de/compare/v1.0.4...v1.0.5) (2025-09-28)
+
+
+### Bug Fixes
+
+* check-out with tags to enable git versioning. ([0ea02d7](https://github.com/Paladins-Inn/www-paladins-inn-de/commit/0ea02d728fc60514088dc661f82eb51ba82247ba))
+
 ## [1.0.4](https://github.com/Paladins-Inn/www-paladins-inn-de/compare/v1.0.3...v1.0.4) (2025-09-28)
 
 
