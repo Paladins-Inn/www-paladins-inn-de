@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Paladins-Inn/www-paladins-inn-de/compare/v1.0.1...v1.0.2) (2025-09-28)
+
+
+### Bug Fixes
+
+* seperate release and build to find the real problem. ([ce9923d](https://github.com/Paladins-Inn/www-paladins-inn-de/commit/ce9923d4f95591cd35f313892dec2a4bde7f0a0c))
+
 ## [1.0.1](https://github.com/Paladins-Inn/www-paladins-inn-de/compare/v1.0.0...v1.0.1) (2025-09-28)
 
 
