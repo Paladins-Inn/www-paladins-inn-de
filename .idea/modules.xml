@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../gitops-kaiserpfalz-edv/gitops-kaiserpfalz-edv.iml" filepath="$PROJECT_DIR$/../gitops-kaiserpfalz-edv/gitops-kaiserpfalz-edv.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/www-kaiserpfalz-edv-de.iml" filepath="$PROJECT_DIR$/.idea/www-kaiserpfalz-edv-de.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/www-paladins-inn-de.iml" filepath="$PROJECT_DIR$/.idea/www-paladins-inn-de.iml" />
     </modules>
   </component>
 </project>

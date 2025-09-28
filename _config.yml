@@ -1,0 +1,49 @@
+name: "Paladins Inn"
+description: >- # this means to ignore newlines until "baseurl:"
+  Rollenspiele.
+logo: "assets/img/paladins-inn.png"
+avatar: ""
+url: "https://www.paladins-inn.de"
+baseurl: ""
+email: "info@paladins-inn.de"
+
+include: ["_pages"]
+permalink: /:title/
+
+plugins:
+  - "jekyll-feed"
+  - "jekyll-sitemap"
+  - "jekyll-paginate"
+  - "jekyll-seo-tag"
+
+exclude:
+  - ".gitignore"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - ".dockerignore"
+  - "Dockerfile"
+  - "README.md"
+  - "LICENSE"
+  - ".idea/"
+  - "*.iml"
+
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      layout: "page"
+      permalink: /:title/
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /:year/:month/:title/
+
+markdown: kramdown
+highlighter: rouge
+
+paginate: 20
+
+kramdown:
+  input: "GFM"
+  hard_wrap: false
