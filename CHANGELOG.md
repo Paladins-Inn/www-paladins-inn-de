@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Paladins-Inn/www-paladins-inn-de/compare/v1.0.0...v1.0.1) (2025-09-28)
+
+
+### Bug Fixes
+
+* trying to get the workflow running. ([405a294](https://github.com/Paladins-Inn/www-paladins-inn-de/commit/405a29471a463eae72aeb4719a43359db34722df))
+
 # 1.0.0 (2025-09-28)
 
 
