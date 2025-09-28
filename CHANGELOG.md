@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/Paladins-Inn/www-paladins-inn-de/compare/v1.0.3...v1.0.4) (2025-09-28)
+
+
+### Bug Fixes
+
+* added github check-out to the build step. ([39f954e](https://github.com/Paladins-Inn/www-paladins-inn-de/commit/39f954ee19fcec7121684e79cc363f89ecfe5c72))
+
 ## [1.0.3](https://github.com/Paladins-Inn/www-paladins-inn-de/compare/v1.0.2...v1.0.3) (2025-09-28)
 
 
