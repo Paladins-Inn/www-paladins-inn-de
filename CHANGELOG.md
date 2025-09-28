@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Paladins-Inn/www-paladins-inn-de/compare/v1.0.2...v1.0.3) (2025-09-28)
+
+
+### Bug Fixes
+
+* changing permissions of release job. ([3aea905](https://github.com/Paladins-Inn/www-paladins-inn-de/commit/3aea9056129d7e97add57d4daa67e57c25430153))
+
 ## [1.0.2](https://github.com/Paladins-Inn/www-paladins-inn-de/compare/v1.0.1...v1.0.2) (2025-09-28)
 
 
