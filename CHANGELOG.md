@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Paladins-Inn/www-paladins-inn-de/compare/v1.1.0...v1.2.0) (2025-09-29)
+
+
+### Features
+
+* der Blog-Eintrag für den RPG Con-Kalender. ([bc30c38](https://github.com/Paladins-Inn/www-paladins-inn-de/commit/bc30c38ea8fc66516f4dd8cb603c8344d9a0c4d5))
+
 # [1.1.0](https://github.com/Paladins-Inn/www-paladins-inn-de/compare/v1.0.7...v1.1.0) (2025-09-29)
 
 
