@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Paladins-Inn/www-paladins-inn-de/compare/v1.0.7...v1.1.0) (2025-09-29)
+
+
+### Features
+
+* Umleitung zu rollenspiel-cons.info hinzugefügt ([1fbcfe5](https://github.com/Paladins-Inn/www-paladins-inn-de/commit/1fbcfe578d840042883ea5cd5b498f98a7f4c69d))
+
 ## [1.0.7](https://github.com/Paladins-Inn/www-paladins-inn-de/compare/v1.0.6...v1.0.7) (2025-09-28)
 
 
