@@ -49,7 +49,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: Update tags
-      run: git fetch --tags
+      run: git pull --tags
     - name: Get version tag
       id: get_tag
       run: echo "tag=$(git describe --tags --abbrev=0)" >> $GITHUB_OUTPUT
